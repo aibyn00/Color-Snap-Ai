@@ -1,0 +1,221 @@
+.body{
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    font-family: sans-serif;
+}
+.iconselect{
+    display: flex;
+}
+.icon{
+    display: flex;
+}
+.btnn{
+    width: auto;
+    height: auto;
+    border-radius:10px;
+    margin-right: 10px;
+
+}
+.imgnotes{
+    margin-top: 40px;
+    
+    width: 700px;
+    height: 700px;
+    
+}
+.small{
+    width: 700px;
+    height: 700px;
+    
+    position: relative;
+    right: 122px;
+    z-index: 0;
+    margin-top: 40px;
+    
+}
+.labelcheck{
+    
+}
+.labelcheck input{
+    
+    position: relative;
+   
+    left: 290px;
+}
+.orange{
+    background-color: orange;
+    width: 10px;
+    height: 20px;
+    border-radius:20px 0px; 
+    position: relative;
+    left: 2px;
+    margin-right: 20px;
+}
+.checkbox{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+/* .zak{
+    font-size: 22px;
+    padding-left: 3.5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    z-index: 20;
+    position: relative;
+    left: 295px;
+    top: 45px;
+    
+    color: white;
+
+    background-color: orange;
+} */
+ .bastybet{
+     border: 1px solid black;
+ }
+.black{
+    background-color: black;
+    width:10px;
+    height: 20px;
+    border-radius:0px 20px;
+}
+.box{
+    border: 1px solid black;
+    padding: 20px;
+    width: 500px;
+}
+.head button{
+    margin-left: 20px;
+}
+.head p{
+    margin-right: 20px;
+    position: relative;
+    left: 350px;
+}
+.head img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.images{
+    position: relative;
+    left: 380px;
+    top:8px;
+    margin-right: 50px;
+}
+.search{
+    position: relative;
+    left: 30px;
+    top: 22px;
+    z-index: 10;
+}
+.inputs{
+    display: block;
+}
+.inputs input{
+    margin-top: 20px;
+    width: 300px;
+    height: 20px;
+    padding: 5px;
+}
+textarea{
+    margin-top: 20px;
+    height: 20px;
+    width: 300px;
+    padding: 5px;
+    
+}
+.active{
+    color: black !important;
+}
+select{
+    border: none;
+    background-color: white;
+}
+.notes{
+    width: 300px;
+    height: 110px;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(238, 237, 237);
+}
+.notesbtn{
+
+}
+.box button{
+    background-color: white;
+    border: none;
+    font-size: 18px;
+    margin-bottom: 30px;
+    
+}
+.head{
+    display: flex;
+    z-index: 10;
+    
+}
+.headbtn{
+    border: none;
+    background-color: white;
+    font-size: 20px;
+}
+.head input{
+    width: 280px;
+    height: 35px;
+    border-radius:35px ;
+    text-align: center;
+    margin-right:60px ;
+    position: relative;
+    top: 10px;
+}
+.btns button{
+    color:black !important;
+
+    
+}
+.btns{
+    margin-top: 20px;
+}
+.parametrs p{
+    position: relative;
+    top: 30px;
+}
+.newpage{
+    margin-top: 200px !important;
+}
+.color{
+    padding: 0px !important;
+}
+.parametrs{
+    margin-right: 30px;
+    padding: 20px;
+    /* border: 1px solid black; */
+    width: 12%;
+    height: 720px;
+    font-size: 20px;
+}
+.parametrs button{
+    border: none;
+    color: gray;
+    background-color: white;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.parametrs button:hover{
+    color: black;
+}
+.parametrs button:active{
+    color:black;
+}
+.parametrs p{
+    color: gray;
+    font-size: 12px;
+    
+}

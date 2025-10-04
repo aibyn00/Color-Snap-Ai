@@ -1,0 +1,32 @@
+.visite{
+    width: 420px;
+    height: 400px;
+
+    background-color: rgb(255, 193, 79);
+    border-radius: 15px;
+    color:white ;
+    text-align: center;
+    padding: 20px;
+
+}
+h1{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+h2{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+body{
+    padding: 50px;
+    text-align: center;
+}
+.card{
+    display: flex;
+    gap: 20px;
+}

@@ -1,0 +1,50 @@
+.login{
+    width: 400px;
+    height: auto;
+    background-color: white;
+    border-radius: 10px;
+   
+    margin-top: 250px;
+    margin-left: 500px;
+    padding-top:20px ;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    box-shadow: 0px 0px 2px 1px black;
+    font-family: sans-serif;
+}
+p{
+    color:rgb(120, 120, 120) ;
+}
+.ry{
+    background-color: white;
+    color: blue;
+    border: 1px solid rgb(46, 46, 46);
+}
+.rt{
+    width: 180px;
+    margin: 10px;
+}
+input{
+    width: 360px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top:15px ;
+    border: 0.5px solid black;
+}
+input:hover{
+    border: 2px solid blue;
+}
+button{
+    width: 360px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 15px;
+    background-color: rgb(34, 119, 255);
+    color: white;
+    border: none;
+}
+button:hover{
+    opacity: 0.9;
+}

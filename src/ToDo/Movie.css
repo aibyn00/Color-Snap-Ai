@@ -1,0 +1,121 @@
+.div1{
+    margin: 0;
+    
+}
+.spi{
+    background-color: aqua;
+    width: 350px;
+    height: 50px;
+    border-radius:10px ;
+    margin-left: 20px;
+    border: none;
+    color: white;
+    font-size: 22px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.kos{
+    background-color: rgb(100, 228, 88);
+    width: 350px;
+    height: 50px;
+    border-radius:10px ;
+    margin-left: 20px;
+    border: none;
+    color: white;
+    font-size: 22px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.basty{
+    width: 800px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    left: 350px;
+    top: 50px;
+    
+}
+.basty h1{
+    font-size: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.btn{
+    position: fixed !important;
+    left: 450px;
+}
+.naz{
+    width: 150px;
+    height: 30px;
+    border-radius:10px ;
+    margin-left: 20px;
+    border: none;
+    color: white;
+    
+    background-color:rgb(24, 74, 255);
+    position: relative !important;
+    top: 0px !important;
+}
+button:hover{
+    opacity: 0.7;
+}
+.plus{
+    width: 150px;
+    height: 30px;
+    border-radius:10px ;
+    margin-left: 20px;
+    border: none;
+    color: white;
+    background-color: rgb(24, 74, 255);
+}
+.kosy{
+    position: relative;
+    left: 550px;
+    top: 20px;
+    border-radius: 40px 80px ;
+    width: 400px;
+    height: 600px;
+    padding: 30px;
+    border: 1px solid black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background:linear-gradient(to right  bottom, rgb(24, 74, 255), rgb(87, 224, 255));
+}
+input{
+    margin-bottom: 20px;
+    width: 390px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+.tizim{
+    width: 600px;
+    height: 100%;
+  
+}
+.tizim button{
+    position: relative;
+    bottom: 840px;
+    left: 600px;
+}
+.film-card{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: relative !important;
+    left: 450px !important;
+    background: linear-gradient(to right bottom , rgb(255, 255, 255), rgb(103, 110, 111));
+}
+img{
+    width: 560px;
+    height: 300px;
+    border-radius: 20px;
+}
+p{
+    font-weight: bold;
+}
+span{
+    font-weight: normal !important;
+}

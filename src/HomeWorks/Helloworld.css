@@ -1,0 +1,25 @@
+h1{
+    color: black;
+    margin-top: 40px;
+    margin-left: 190px;
+    margin-bottom: 30px;
+    font-size: 120px;
+    font-family: sans-serif;
+    
+
+}
+.visit{
+        margin-left:200px;
+        width:1100px;
+        height:470px;
+        background:linear-gradient(to bottom right, rgb(113, 0, 226), rgb(49, 126, 251));
+        background-color: aqua;
+        border-radius:25px;
+        text-align:center;
+        padding:10px;
+
+      }
+
+
+
+

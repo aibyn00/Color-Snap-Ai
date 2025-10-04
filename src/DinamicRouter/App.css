@@ -1,0 +1,110 @@
+.home{
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    margin-left:450px ;
+    margin-top: 100px;
+    text-align: center;
+    display: block;
+    border-radius: 50px 100px;
+    background-color: rgba(255, 166, 0, 0.679);
+}
+.home Link{
+    text-decoration: none;
+}
+div{
+    font-family: sans-serif;
+}
+.post{
+    width: 1400px;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding:30px ;
+    padding-left: 70px;
+    background-color: aliceblue;
+    gap: 10px;
+
+}
+.btn{
+    position: fixed;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    transition: 2s ease-out ;
+}
+.btn:hover{
+    transform: scale(1.2);
+
+}
+
+
+.postdiv{
+    margin-top: 50px;
+    width: 370px;
+    height: 340px;
+    border-radius: 15px;
+    
+    background-color: white;
+    border-radius: 15px;
+    padding:20px ;
+    box-shadow: 0px 0px 3px 0px rgba(255, 0, 0, 0.496);
+    
+}
+.postdiv:hover{
+    animation: example  2s linear infinite;
+
+}
+@keyframes example{
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(-10px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+.postdetails{
+    width: 100%;
+    height: auto;
+    padding: 40px;
+}
+.postdetails button{
+    position: relative;
+    bottom: 150px;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    transition: 2s ease-out ;
+    color: black;
+    text-align: center; 
+
+}
+.link{
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+}
+.postdetails button:hover{
+        transform: scale(1.1);
+
+}
+.more{
+    color: black;
+    font-size: 24px;
+    border: 2px solid black;
+    text-decoration: none;
+    border-radius: 5px;
+    
+}
+.myposts{
+    font-size: 28px;
+    text-decoration: none;
+}
+.app{
+     
+}

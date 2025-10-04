@@ -1,0 +1,93 @@
+.home{
+    border:none;
+    width: 600px;
+    height: 500px;
+    border-radius:  60px 60px 180px 180px;
+    padding:20px ;
+    margin-left: 450px;
+    margin-top: 80px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 0px 15px 0px black;
+}
+.home h1{
+    margin-bottom: 50px;
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.833);
+}
+.home button{
+    width: 200px;
+    height: 50px;
+    margin-left:30px ;
+    background-color: rgba(0, 94, 255, 0.83);
+    border: none;
+    border-radius: 40px;
+    color: white;
+    font-size: 18px;
+     font-family: sans-serif;
+}
+.home button:hover{
+    opacity: 0.7;
+}
+.home button:active{
+    border: 2px solid black;
+}
+.plus{
+    width: 600px;
+    height: 500px;
+    background-color: white;
+    box-shadow: 0px 0px 10px 0px;
+    border-radius:60px 60px 180px 180px ;
+    margin-top: 80px;
+    margin-left: 450px;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 20px;
+}
+.btn{
+     width: 200px;
+    height: 50px;
+    margin-left:30px ;
+    background-color: rgba(0, 94, 255, 0.83);
+    border: none;
+    border-radius: 40px;
+    color: white;
+    font-size: 18px;
+     font-family: sans-serif;
+}
+.btn:hover{
+    opacity: 0.7;
+}
+.btn:active{
+        border: 2px solid black;
+}
+.back{
+    position: relative !important;
+    right: 300px !important;
+}
+.text2{
+    width: 100%;
+    height: auto;
+    
+
+    
+   
+}
+.text1{
+    width: 100%;
+    height: auto;
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 30px;
+}
+.text{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 1px solid black;
+
+}
+.plus input{
+    width: 90%;
+    height: 30px;
+}

@@ -1,0 +1,45 @@
+.logo{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.admin{
+    text-align: center;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.imgd{
+    display: flex;
+
+}
+input{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    position: relative;
+    right: 180px;
+    bottom: 20px;
+    margin-bottom: 20px;
+    
+}
+button img{
+    width: 200px;
+    height: 120px;
+}
+
+button{
+    background-color: white;
+    border: none;
+    position: relative;
+    bottom: 80px;
+    right: 100px;
+}
+.body{
+    display: flex;
+    margin-left: 130px;
+    position: relative;
+    top: 50px;
+}

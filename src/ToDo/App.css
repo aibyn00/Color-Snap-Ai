@@ -1,0 +1,156 @@
+.div1{
+    width: 1520px;
+    height: 800px;
+    background-color: rgb(105, 99, 255);
+}
+body{
+    padding: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.family{
+    display: flex;
+    padding: 50px;
+}
+
+.box1{
+    text-align: center;
+    width: 80px;
+    height: 700px;
+    /* border: 1px solid black; */
+  
+}
+.time{
+    position: relative;
+    left: 80px;
+    top: 200px;
+}
+.time h2{
+    display: flex;
+    color: rgb(72, 66, 248);
+    
+}
+.time h1{
+    position: relative;
+    bottom: 43px;
+}
+.time select{
+    width: 280px;
+    height: 25px;
+    border: none;
+    color:silver;
+    background-color: rgb(218, 218, 218);
+    margin-bottom: 30px;
+    position: relative;
+    bottom: 78px;
+    left: 16px;
+}
+.time p{
+    position: relative;
+    bottom: 70px;
+    left:16px ;
+    color: rgb(72, 66, 248);
+}
+.time button{
+    background-color:rgb(105, 99, 255) ;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    position: relative;
+    bottom: 70px;
+    left: 16px;
+    color: white;
+    font-size: 16px;
+}
+.pro{
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50% !important;
+    background-color: white !important;
+    margin-top: 100px;
+    
+    
+}
+.exit{
+    margin-top: 370px;
+}
+.box1 button{
+    width: 80px;
+    background-color:  rgb(105, 99, 255);
+    border: none;
+    font-size: 25px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.box1 button:hover{
+    background-color:  rgb(93, 87, 254);
+}
+.div2{
+    width:450px;
+    height: 640px;
+    /* border: 1px solid black; */
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+    
+}
+.div2 input{
+    width: 250px;
+    margin-bottom: 20px;
+
+}
+
+.div6{
+    position: relative;
+    left: 80px;
+    top: 140px;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    background-color:  rgb(105, 99, 255);
+    text-align:center;
+    
+}
+.div6 h2{
+    position: relative;
+    bottom: 100px;
+    right: 130px;
+}
+.div6 span{
+    position: relative;
+    top: 80px;
+    font-size: 50px;
+    color: white;
+}
+.faty{
+    width: 30px;
+    position: relative !important;
+    right: 120px !important;
+    top: 10px !important;
+    z-index: 20 !important;
+}
+.div3{
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+.spy{
+    position: relative;
+    right: 0px;
+}
+.div3 span{
+    margin-right: 10px;
+    
+}
+.div3 button{
+    height: 25px;
+    width: 25px;
+    padding: auto;
+}
+.box2{
+    width: 800px;
+    height: 700px;
+    /* border: 1px solid black; */
+    background-color: rgb(235, 235, 235);
+    display: flex;
+}
